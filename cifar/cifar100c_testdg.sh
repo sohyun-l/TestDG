@@ -1,0 +1,1 @@
+python cifar100c_testdg.py --cfg=cfgs/cifar100/testdg_cifar100c.yaml --checkpoint=cifar100_pretrained_weight.pth --cls_lr=1e-05 --cls_weight=0.005 --conf_thres=0.15 --data_dir=/root/data1 --lr=0.0003 --mse_weight=0.005 --proj_lr=1e-05 --triplet=True --amplifier_lr=9e-6

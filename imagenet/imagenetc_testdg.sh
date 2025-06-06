@@ -1,0 +1,1 @@
+python imagenetc_testdg.py --cfg cfgs/testdg.yaml --checkpoint imagenet_pretrained_weight.pth --data_dir /root/data1 --cls_weight 0.06 --cls_lr 2e-5 --proj_lr 2e-5 --mse_weight 0.006

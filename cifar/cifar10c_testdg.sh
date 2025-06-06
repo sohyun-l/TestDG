@@ -1,0 +1,1 @@
+python cifar10c_testdg.py --cfg cfgs/cifar10/testdg_cifar10c.yaml --checkpoint cifar10_pretrained_weight.pth --data_dir /root/data1 --cls_weight 0.05 --cls_lr 0.00001 --proj_lr 0.00001 --mse_weight 0.07 --triplet True --lr 1e-4 --amplifier_lr 6e-5
