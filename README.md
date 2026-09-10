@@ -1,4 +1,4 @@
-# [TestDG: Test-time Domain Generalization (arXiv 2025)](https://arxiv.org/abs/2504.04981) 
+# [TestDG: Test-time Domain Generalization (TMLR 2026)](https://arxiv.org/abs/2504.04981) 
 
 # CIFAR10 to CIFAR10-C
 
