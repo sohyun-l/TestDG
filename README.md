@@ -1,5 +1,7 @@
 # [TestDG: Test-time Domain Generalization (TMLR 2026)](https://arxiv.org/abs/2504.04981) 
 
+**Sohyun Lee, Nayeong Kim, Juwon Kang, Seong Joon Oh, Suha Kwak**
+
 # CIFAR10 to CIFAR10-C
 
 ## Run
